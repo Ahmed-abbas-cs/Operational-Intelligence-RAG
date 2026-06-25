@@ -33,3 +33,5 @@ This project is an **End-to-End Enterprise RAG (Retrieval-Augmented Generation) 
 ```bash
 git clone [https://github.com/Ahmed-abbas-cs/Operational-Intelligence-RAG.git](https://github.com/Ahmed-abbas-cs/Operational-Intelligence-RAG.git)
 cd Operational-Intelligence-RAG
+<img width="1410" height="1188" alt="Operational Intelligence Dashboard" src="https://github.com/user-attachments/assets/d811aeef-d8b6-413d-9ef3-4b8d866a9239" />
+<img width="1440" height="900" alt="Screenshot 1448-01-10 at 3 40 28 AM" src="https://github.com/user-attachments/assets/ddef488e-d932-4827-8202-cce36b8d33f2" />
