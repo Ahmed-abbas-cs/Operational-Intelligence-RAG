@@ -42,13 +42,11 @@ git clone [https://github.com/Ahmed-abbas-cs/Operational-Intelligence-RAG.git](h
 cd Operational-Intelligence-RAG
 
 
-
 2. Create a virtual environment & install dependencies
 
 python3 -m venv .venv
 source .venv/bin/activate  # On Windows use: .venv\Scripts\activate
 pip install pandas langchain langchain-community chromadb sentence-transformers transformers streamlit
-
 
 
 3. Run the Data Cleaning Script
@@ -57,13 +55,11 @@ Make sure you have your raw complaints.csv in the root folder, then run:
 python data_cleaning.py
 
 
-
 (This will generate a cleaned_complaints_data.csv file optimized for the RAG engine).
 
 4. Launch the AI Assistant
 
 streamlit run rag_engine.py
-
 
 
 🧪 Testing the Anti-Hallucination Guardrail
